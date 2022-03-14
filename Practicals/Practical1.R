@@ -1,0 +1,5 @@
+vector <- c(5, NA, 8, 10, 7)
+print(vector)
+sum(vector, na.rm=TRUE)
+mean(vector, na.rm=TRUE)
+prod(vector, na.rm=TRUE)
